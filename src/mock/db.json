@@ -1,0 +1,504 @@
+{
+  "users": [
+    {
+      "name": "belal",
+      "lastName": "qassem",
+      "address": "al jalaa",
+      "city": "gaza",
+      "token": "1514845/15151/15516161",
+      "country": "palestine",
+      "email": "belalqassem52@gmail.com",
+      "password": "Pa$$w0rd!",
+      "photo": "blob:http://localhost:3000/05ad9d7f-48d1-4972-977e-e86e9c25c342",
+      "id": 1
+    },
+    {
+      "name": "Ahmed",
+      "lastName": "Mohamed",
+      "address": "sansaft",
+      "city": "menouf",
+      "country": "Egypt",
+      "email": "ahmedmohamed@gmail.com",
+      "password": "789456123",
+      "photo": "blob:http://localhost:3000/2c22af1e-20ae-4614-bbd0-fa3725206c2f",
+      "id": 2
+    },
+    {
+      "name": "Leo",
+      "lastName": "Klein",
+      "address": "Magnam magna neque v",
+      "city": "Molestias culpa dol",
+      "country": "Vel recusandae Fugi",
+      "email": "hafov@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "photo": "blob:http://localhost:3002/b0cc9c96-e3cc-4a1e-b79f-5c957a98ef9a",
+      "id": 3
+    },
+    {
+      "name": "Ivana",
+      "lastName": "Hurst",
+      "address": "Vero est ullam est o",
+      "city": "Consequuntur amet s",
+      "country": "Et esse sequi itaqu",
+      "email": "mytopipy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "photo": "blob:http://localhost:3001/4b5d829a-d406-4550-80b7-537f3ac5f023",
+      "id": 4
+    },
+    {
+      "name": "belal",
+      "email": "belalqassem52@gmail.com",
+      "password": "Pa$$w0rd!",
+      "id": 5
+    },
+    {
+      "email": "belalqassem52@gmail.com",
+      "password": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "email": "belalqassem52@gmail.com",
+      "password": "Pa$$w0rd!",
+      "id": 7
+    },
+    {
+      "email": "belalqassem52@gmail.com",
+      "password": "Pa$$w0rd!",
+      "id": 8
+    },
+    {
+      "name": "belal",
+      "email": "belalqassem52@gmail.com",
+      "password": "Pa$$w0rd!",
+      "id": 9
+    },
+    {
+      "name": "Calista",
+      "lastname": "Atkins",
+      "email": "vofufis@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 10
+    },
+    {
+      "name": "Kelsie",
+      "email": "duxeham@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 11
+    },
+    {
+      "email": "belalqassem52@gmail.com",
+      "password": "Pa$$w0rd!",
+      "id": 12
+    },
+    {
+      "email": "caryle@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 13
+    },
+    {
+      "name": "September",
+      "email": "vopypywivy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 14
+    },
+    {
+      "name": "Flynn",
+      "email": "zofa@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 15
+    },
+    {
+      "name": "Tyler",
+      "email": "givikin@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 16
+    },
+    {
+      "name": "Declan",
+      "email": "diqitybyxa@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 17
+    },
+    {
+      "name": "Demetrius",
+      "email": "nawexi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 18
+    },
+    {
+      "name": "Merritt",
+      "email": "vegewabad@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 19
+    },
+    {
+      "name": "Paul",
+      "email": "fumomi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 20
+    },
+    {
+      "name": "Kessie",
+      "email": "pucubuc@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 21
+    },
+    {
+      "name": "Prescott",
+      "email": "tafiturufa@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 22
+    },
+    {
+      "name": "Yvette",
+      "email": "zenafug@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 23
+    },
+    {
+      "name": "Byron",
+      "email": "zonobimu@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "name": "Leandra",
+      "email": "foqanekop@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 26
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "speciality": "Front-End Development",
+      "title": "React Developer for Whiteboard based application",
+      "hourlyRate": "$10-$30",
+      "expertiseLevel": "Expert",
+      "budget": "$450",
+      "estimatedTime": "1 to 3 months",
+      "hoursPerWeek": "Less than 30 hrs/week",
+      "posted": "44 minutes ago",
+      "description": "We are seeking an experienced and skilled React Developer with a strong background in user experience design to join our team on a project basis. The ideal candidate will have a deep understanding of JavaScript, TypeScript, and React.js and a proven track record of delivering high-quality web applications. Responsibility: You'll be responsible for implementing updates, tweaks, and new tools/components on top of a ready-made whiteboard code base while keeping compatibility with future updates to that code base (3rd party code). The ability to work independently and a keen sense of user experience design are essential for this role. Showing examples already made is an advantage! Key Requirements: - Strong experience with React, and state design (Although you'll be using a ready-made code base system for that) - In-depth knowledge of JavaScript and React.js - Proven track record of delivering high-quality web applications - Strong problem-solving skills and ability to work independently - Strong understanding of user experience design",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Database Development",
+        "Node.js",
+        "Git",
+        "React",
+        "JavaScript",
+        "UX & UI"
+      ],
+      "proposals": "20 to 50",
+      "paymentVerified": true,
+      "rating": 0,
+      "amountSpent": "$500+",
+      "location": "India"
+    },
+    {
+      "id": 2,
+      "title": "Design the top and left navigation of application",
+      "speciality": "Front-End Development",
+      "hourlyRate": "Fixed-price",
+      "expertiseLevel": "Expert",
+      "budget": "$750",
+      "estimatedTime": "1 to 3 months",
+      "hoursPerWeek": "Less than 30 hrs/week",
+      "posted": "13 minutes ago",
+      "description": "Note:Please see attached image. We need a UX/Graphical Designer/Developer resource to make the left and top nav of our application have an awesome design worth of a commercial application. You will be designing the top and left navigation of a web application. 1. You will be provided the HTML/CSS of the existing plain top and left nav for your to redesign and modify. 2. You need to come up with the design and apply it. 3. It needs to work on desktop as well mobile. 4. Your deliverable will be the same HTML/CSS we provided with the new designed applied. 5. You only need to apply the new design to ONE single page including all required files (css,images,icons,javascript...). 6. This job does not require designing multiple pages, you only will apply it to a single page since the left and right nav stays the same through the app. We will take care of applying your top and left nav design to all our pages. Your deliverable will be a single page. 7. What you deliver needs to be functional. That means you are applying the design changes (css,images.hhtml). We don't want mockups, we want the design already applied to the page. It needs to work on both desktop and mobile. 6. We will be providing the application logo. 7. You will have the freedom to choose the color/font/design of the left and top nav based on what you think would work best for the center content,type of product and target audience. 8. You will not be responsible to design the center/content of the application, only the top and left nav. 9. This will be for a commercial product so it needs to be a professional clean design worth of a commercial application. Please provide example of previous designs. You need to to know web design, UX design, html, css, image design and maybe javascript.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Database Development",
+        "Node.js",
+        "Git",
+        "React",
+        "JavaScript",
+        "UX & UI"
+      ],
+      "proposals": "15 to 20",
+      "paymentVerified": true,
+      "rating": 0,
+      "amountSpent": "$500+",
+      "location": "Palestine"
+    },
+    {
+      "id": 3,
+      "title": "Website Development , Minting Functionality , DAPP application",
+      "speciality": "Front-End Development",
+      "description": "We are seeking a skilled Blockchain/Web Developer to build a front-end application that will interact with a smart contract. The successful candidate will work closely with our team of designers to bring a pre-designed user interface to life using cutting-edge technologies. Responsibilities: Develop and maintain a front-end application that interacts with a smart contract on the blockchain. Create and implement web3.js functionality to connect to the smart contract. Implement functionality to allow/disallow users off whitelist for minting on the website. Develop a user-friendly interface that meets the design requirements provided in the Figma link. Set up and maintain a secure infrastructure for the website to ensure a smooth and secure user experience. Implement maximum and minimum minting allowed per whitelist. Debug and troubleshoot any issues that arise during the development process. Requirements: Proven experience as a Blockchain/Web Developer. Proficiency in web3.js, React.js, and other front-end technologies. Strong understanding of blockchain technologies and smart contracts. Familiarity with Figma and UI/UX design principles. Experience with test-driven development and agile methodologies. Excellent communication skills and the ability to work collaboratively with a team. Ability to meet deadlines and work efficiently under pressure.",
+      "hourlyRate": "Fixed-price",
+      "budget": "$150",
+      "estimatedTime": "1 to 3 months",
+      "expertiseLevel": "Intermediate",
+      "posted": "7 hours ago",
+      "technologies": [
+        "Web Development",
+        "Blockchain, NFT & Cryptocurrency",
+        "Solidity",
+        "Web Application",
+        "Blockchain"
+      ],
+      "proposals": "15 to 20",
+      "paymentVerified": false,
+      "rating": 0,
+      "amountSpent": "$500+",
+      "location": "Palestine"
+    },
+    {
+      "id": 4,
+      "speciality": "Front-End Development",
+      "title": "Build a Dynamic and Responsive website using Next.js and React.js",
+      "description": "Looking for a skilled and innovative freelancer to bring our website to life! We need someone who can create a dynamic and responsive website using cutting-edge technologies like Next.js, React.js, Javascript, HTML, and CSS. Your mission, should you choose to accept it, is to design a website that not only looks great but also performs seamlessly across all devices. Responsibilities: Develop a dynamic and responsive website that meets our specifications Collaborate with our team to ensure the website design aligns with our brand and goals Optimize the website for search engines and user experience Troubleshoot and debug any issues that arise during development Provide ongoing support and maintenance for the website Requirements: Proven experience with Next.js, React.js, Javascript, HTML, and CSS Strong attention to detail and ability to follow instructions Ability to work independently and as part of a team Excellent communication skills and responsiveness Portfolio of previous website development projects If you're ready to showcase your skills and take on an exciting challenge, we want you on our team! Apply now and let's build something amazing together.",
+      "hourlyRate": "Fixed-price",
+      "budget": "$100",
+      "estimatedTime": "1 to 3 months",
+      "expertiseLevel": "Intermediate",
+      "posted": " 10 hours ago",
+      "technologies": [
+        "Web Development",
+        "Blockchain, NFT & Cryptocurrency",
+        "Solidity",
+        "Web Application",
+        "Blockchain"
+      ],
+      "proposals": "50+",
+      "paymentVerified": false,
+      "rating": 0,
+      "amountSpent": "$500+",
+      "location": "Singapore"
+    },
+    {
+      "id": 5,
+      "speciality": "Front-End Development",
+      "title": "React Web Developer using Material UI",
+      "description": "We are looking for a skilled and experienced Web Developer who is proficient in using Material UI to join our dynamic team. As a Web Developer using Material UI, you will be responsible for developing and maintaining our company's website and ensuring that it is visually appealing and user-friendly. You will work closely with our designers, developers, and project managers to deliver high-quality projects within set timelines. Responsibilities: Develop and maintain the company website using Material UI components and React.js. Collaborate with the design team to create visually appealing and user-friendly interfaces. Write clean, maintainable, and efficient code using modern web development best practices. Troubleshoot and debug issues that arise in the development process. Optimize web applications for maximum speed and scalability. Participate in code reviews and provide constructive feedback to improve code quality. Stay up-to-date with emerging trends and technologies in web development. Requirements: Bachelor's degree in Computer Science or a related field. 3+ years of experience in web development using Material UI and React.js. Strong proficiency in HTML, CSS, and JavaScript. Experience with version control systems such as Git. Understanding of responsive design and cross-browser compatibility. Strong problem-solving and analytical skills. Excellent communication and collaboration skills. Ability to work independently as well as in a team environment. Familiarity with Agile/Scrum methodologies is a plus. If you are a creative and motivated individual who is passionate about web development and has experience using Material UI, we would love to hear from you. We offer a competitive salary, opportunities for professional development, and a fun and collaborative work environment. Please submit your resume and portfolio of relevant work for consideration.",
+      "hourlyRate": "$20-$40",
+      "budget": "$15-$30",
+      "estimatedTime": "1 to 3 months",
+      "expertiseLevel": "Expert",
+      "posted": "1 day ago",
+      "technologies": [
+        "Web Development",
+        "Blockchain, NFT & Cryptocurrency",
+        "Solidity",
+        "Web Application",
+        "Blockchain",
+        "Tailwind",
+        "CSS",
+        "React"
+      ],
+      "proposals": "20 to 15",
+      "paymentVerified": false,
+      "rating": 0,
+      "amountSpent": "$500+",
+      "location": "Moldova"
+    },
+    {
+      "id": 6,
+      "title": "React Web Developer using Material UI",
+      "speciality": "Front-End Development",
+      "description": "We are looking for a skilled and experienced Web Developer who is proficient in using Material UI to join our dynamic team. As a Web Developer using Material UI, you will be responsible for developing and maintaining our company's website and ensuring that it is visually appealing and user-friendly. You will work closely with our designers, developers, and project managers to deliver high-quality projects within set timelines. Responsibilities: Develop and maintain the company website using Material UI components and React.js. Collaborate with the design team to create visually appealing and user-friendly interfaces. Write clean, maintainable, and efficient code using modern web development best practices. Troubleshoot and debug issues that arise in the development process. Optimize web applications for maximum speed and scalability. Participate in code reviews and provide constructive feedback to improve code quality. Stay up-to-date with emerging trends and technologies in web development. Requirements: Bachelor's degree in Computer Science or a related field. 3+ years of experience in web development using Material UI and React.js. Strong proficiency in HTML, CSS, and JavaScript. Experience with version control systems such as Git. Understanding of responsive design and cross-browser compatibility. Strong problem-solving and analytical skills. Excellent communication and collaboration skills. Ability to work independently as well as in a team environment. Familiarity with Agile/Scrum methodologies is a plus. If you are a creative and motivated individual who is passionate about web development and has experience using Material UI, we would love to hear from you. We offer a competitive salary, opportunities for professional development, and a fun and collaborative work environment. Please submit your resume and portfolio of relevant work for consideration.",
+      "hourlyRate": "$15-$30",
+      "budget": "$900",
+      "estimatedTime": "1 to 3 months",
+      "expertiseLevel": "Expert",
+      "posted": "2 day ago",
+      "technologies": [
+        "Web Development",
+        "Blockchain, NFT & Cryptocurrency",
+        "Solidity",
+        "Web Application",
+        "Blockchain",
+        "Tailwind",
+        "CSS",
+        "React"
+      ],
+      "proposals": "20 to 15",
+      "paymentVerified": true,
+      "rating": 0,
+      "amountSpent": "$800+",
+      "location": "United States"
+    },
+    {
+      "id": 7,
+      "title": "React Developer for Whiteboard based application",
+      "speciality": "Front-End Development",
+      "hourlyRate": "$10-$30",
+      "budget": "$450",
+      "expertiseLevel": "Expert",
+      "estimatedTime": "1 to 8 months",
+      "hoursPerWeek": "Less than 30 hrs/week",
+      "posted": "44 minutes ago",
+      "description": "We are seeking an experienced and skilled React Developer with a strong background in user experience design to join our team on a project basis. The ideal candidate will have a deep understanding of JavaScript, TypeScript, and React.js and a proven track record of delivering high-quality web applications. Responsibility: You'll be responsible for implementing updates, tweaks, and new tools/components on top of a ready-made whiteboard code base while keeping compatibility with future updates to that code base (3rd party code). The ability to work independently and a keen sense of user experience design are essential for this role. Showing examples already made is an advantage! Key Requirements: - Strong experience with React, and state design (Although you'll be using a ready-made code base system for that) - In-depth knowledge of JavaScript and React.js - Proven track record of delivering high-quality web applications - Strong problem-solving skills and ability to work independently - Strong understanding of user experience design",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Database Development",
+        "Node.js",
+        "Git",
+        "React",
+        "JavaScript",
+        "UX & UI"
+      ],
+      "proposals": "20 to 50",
+      "paymentVerified": true,
+      "rating": 0,
+      "amountSpent": "$500+",
+      "location": "India"
+    }
+  ],
+  "personalInformation": [
+    {
+      "rate": "12",
+      "overview": "As a full stack developer, I specialize in designing and developing high-performance, responsive web applications using the latest frameworks and technologies. My skills include React, Next, Redux, Laravel php, and MySQL, among others. I have extensive experience building clean, readable code that is easy to maintain and modify. Additionally, I have a strong background in API development using Laravel, which allows me to create powerful, scalable solutions for a wide range of applications. I am passionate about creating user-friendly, elegant web apps that deliver superior performance and user experience. If you are looking for a talented full stack developer, feel free to connect with me to discuss potential collaborations or to learn more about my experience.",
+      "title": "web development | full stake ",
+      "skills": [
+        {
+          "id": 2,
+          "title": "angular"
+        },
+        {
+          "id": 1,
+          "title": "react"
+        },
+        {
+          "id": 7,
+          "title": "laravel"
+        },
+        {
+          "id": 9,
+          "title": "AI"
+        },
+        {
+          "id": 12,
+          "title": "nuxt"
+        },
+        {
+          "id": 14,
+          "title": "android"
+        },
+        {
+          "id": 10,
+          "title": "typescript"
+        },
+        {
+          "id": 13,
+          "title": "scss"
+        },
+        {
+          "id": 5,
+          "title": "HDD"
+        },
+        {
+          "id": 4,
+          "title": "SSD"
+        },
+        {
+          "id": 6,
+          "title": "php"
+        },
+        {
+          "id": 15,
+          "title": "java"
+        },
+        {
+          "id": 3,
+          "title": "vue"
+        },
+        {
+          "id": 16,
+          "title": "python"
+        },
+        {
+          "id": 11,
+          "title": "next"
+        }
+      ],
+      "image": "https://i.postimg.cc/MT5XhtNX/305983856-407088451563583-8389093215748901118-n-removebg-preview.png",
+      "id": 1
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "react"
+    },
+    {
+      "id": 2,
+      "title": "angular"
+    },
+    {
+      "id": 3,
+      "title": "vue"
+    },
+    {
+      "id": 4,
+      "title": "SSD"
+    },
+    {
+      "id": 5,
+      "title": "HDD"
+    },
+    {
+      "id": 6,
+      "title": "php"
+    },
+    {
+      "id": 7,
+      "title": "laravel"
+    },
+    {
+      "id": 8,
+      "title": "UI"
+    },
+    {
+      "id": 9,
+      "title": "AI"
+    },
+    {
+      "id": 10,
+      "title": "typescript"
+    },
+    {
+      "id": 11,
+      "title": "next"
+    },
+    {
+      "id": 12,
+      "title": "nuxt"
+    },
+    {
+      "id": 13,
+      "title": "scss"
+    },
+    {
+      "id": 14,
+      "title": "android"
+    },
+    {
+      "id": 15,
+      "title": "java"
+    },
+    {
+      "id": 16,
+      "title": "python"
+    },
+    {
+      "id": 17,
+      "title": "c++"
+    },
+    {
+      "id": 18,
+      "title": "c#"
+    },
+    {
+      "id": 19,
+      "title": "css"
+    }
+  ]
+}
