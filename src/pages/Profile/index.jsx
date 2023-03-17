@@ -25,7 +25,7 @@ const Profile = () => {
     (async () => {
       try {
         const res = await axios.get(
-          "http://localhost:3000/personalInformation"
+          `${process.env.REACT_APP_API_URL}/personalInformation`
         );
         if (res) {
           setTilte(res.data[0].title);

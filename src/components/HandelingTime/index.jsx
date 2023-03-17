@@ -4,7 +4,7 @@ import status from "../../assets/status.png";
 
 import { Status, StatusOfTime, Time } from "./style";
 
-const TimeStatus = () => {
+const HandelingTime = () => {
   const today = new Date();
   const daysOfWeek = [
     "Sunday",
@@ -61,4 +61,4 @@ const TimeStatus = () => {
   );
 };
 
-export default TimeStatus;
+export default HandelingTime;

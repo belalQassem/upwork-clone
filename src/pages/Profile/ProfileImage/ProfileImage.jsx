@@ -11,7 +11,7 @@ const ProfileImage = ({ click }) => {
     const fetchData = async () => {
       try {
         const res = await axios.get(
-          `http://localhost:3000/personalInformation`
+          `${process.env.REACT_APP_API_URL}/personalInformation`
         );
         if (res.data[0].image) {
           setImg(res.data[0].image);

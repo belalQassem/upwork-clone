@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import {Div} from './style'
 
 export default class ErrorBoundary extends Component {
   state = { hasError: false };
@@ -11,7 +12,7 @@ export default class ErrorBoundary extends Component {
   }
   render() {
     if (this.state.hasError) {
-      return <h1>Ooops! Something went wrong.</h1>;
+      return <Div>Something went wrong</Div>;
     }
 
     return this.props.children;

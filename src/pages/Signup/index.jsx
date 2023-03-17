@@ -21,7 +21,6 @@ import { CheckedInputWrapper, InputFullName } from "./style";
 import { useAuthContext } from "../../context/AuthContext";
 import { schema } from "./validation";
 import axios from "axios";
-import { API_URL } from "../../config/api";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 
@@ -74,7 +73,7 @@ const Signup = () => {
         { abortEarly: false }
       )
       .then(async () => {
-        const res = await axios.post(`${API_URL}/users`, {
+        const res = await axios.post(`${process.env.REACT_APP_API_URL}/users`, {
           name: firstname,
           email: email,
           password: password,

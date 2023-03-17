@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import axios from "axios";
-import { API_URL } from "./../../config/api";
 import google from "../../assets/google.svg";
 import apple from "../../assets/apple.png";
 import passwordshow from "../../assets/eye.png";
@@ -46,7 +45,7 @@ function Login() {
     try {
       await schema.validate({ email, password }, { abortEarly: false });
 
-      const res = await axios.get(`${API_URL}/users?email=${email}&password=${password}`);
+      const res = await axios.get(`${process.env.REACT_APP_API_URL}/users?email=${email}&password=${password}`);
 
       if (res.data.length > 0) {
         const user = res.data[0];

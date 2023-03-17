@@ -13,7 +13,7 @@ const Filter = () => {
     (async () => {
       try {
         const res = await axios.get(
-          `http://localhost:3000/jobs?title_like=${searchValue}`
+          `${process.env.REACT_APP_API_URL}/jobs?title_like=${searchValue}`
         );
 
         if (res) {

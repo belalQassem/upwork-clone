@@ -12,7 +12,7 @@ function JobDetails() {
     (async () => {
       try {
         const res = await axios.get(
-          `http://localhost:3000/jobs`
+          `${process.env.REACT_APP_API_URL}/jobs`
         );
         if (res) {
           setJob(res.data);

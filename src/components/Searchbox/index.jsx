@@ -14,7 +14,7 @@ const Searchbox = ({ width }) => {
   useEffect(() => {
     (async () => {
       try {
-        const res = await axios.get(`http://localhost:3000/jobs`);
+        const res = await axios.get(`${process.env.REACT_APP_API_URL}/jobs`);
 
         if (res) {
           setAllJobs(res.data);

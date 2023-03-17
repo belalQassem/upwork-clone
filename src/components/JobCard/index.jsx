@@ -10,6 +10,7 @@ import {
   Jobdetail2,
   Span,
   ToggleSaveBtn,
+  P
 } from "./style";
 import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnTwoTone";
 import Stars from "../Stars";
@@ -38,7 +39,7 @@ const JobCard = ({ Jobdetails }) => {
       {Jobdetails?.map((detail) => (
         <Cardjob key={detail.id}>
           <Canvas detail={detail}>
-            <h3>{detail.title}</h3>
+            <P>{detail.title}</P>
             <Jobdetail>
               {detail.hourlyRate} - {detail.expertiseLevel} - Est.
               {detail.estimatedTime},{detail.hoursPerWeek} - Budget:

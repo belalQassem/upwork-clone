@@ -16,7 +16,7 @@ const MostRecent = () => {
     (async () => {
       try {
         const res = await axios.get(
-          `http://localhost:3000/jobs?_sort=id&_order=desc_page=1&_limit=${count}`
+          `${process.env.REACT_APP_API_URL}/jobs?_sort=id&_order=desc_page=1&_limit=${count}`
         );
         if (res) {
           setMostJob(res.data);

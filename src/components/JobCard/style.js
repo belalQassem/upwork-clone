@@ -54,3 +54,7 @@ export const Span = styled.span`
   cursor: pointer;
 
 `;
+export const P = styled.p`
+font-size: 22px;
+
+`
