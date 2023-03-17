@@ -28,6 +28,7 @@ export const Jobdetail = styled.div`
 `;
 
 export const JobDescription = styled.p`
+font-size:"16px"
 `;
 
 export const ToggleSaveBtn = styled.button`
