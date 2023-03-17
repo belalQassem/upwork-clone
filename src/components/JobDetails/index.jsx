@@ -36,7 +36,7 @@ function JobDetails() {
   );
 }
 
-export const Text = styled.p`
+export const Text = styled.span`
   font-size: 14px;
   color: #001e00;
   margin-bottom: 20px;
